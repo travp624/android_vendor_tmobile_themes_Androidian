@@ -16,5 +16,5 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/ic_launcher_browser">@drawable/com_android_browser_ic_launcher_browser</item>
+    <item name="mipmap/ic_launcher_browser">@drawable/com_android_browser_ic_launcher_browser</item>
 </resource-redirections>

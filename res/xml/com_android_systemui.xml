@@ -60,4 +60,18 @@
     <item name="drawable/stat_inner_press">@drawable/com_android_systemui_stat_inner_press</item>
     <item name="drawable/stat_inner_focus">@drawable/com_android_systemui_stat_inner_focus</item>
     <item name="drawable/title_bar_portrait">@drawable/com_android_systemui_title_bar_portrait</item>
+    <item name="drawable/stat_sys_battery_charge_anim100">@drawable/frameworks_res_stat_sys_battery_charge_anim5</item>
+    <item name="drawable/stat_sys_battery_charge_anim85">@drawable/frameworks_res_stat_sys_battery_charge_anim5</item>
+    <item name="drawable/stat_sys_battery_charge_anim71">@drawable/frameworks_res_stat_sys_battery_charge_anim4</item>
+    <item name="drawable/stat_sys_battery_charge_anim57">@drawable/frameworks_res_stat_sys_battery_charge_anim3</item>
+    <item name="drawable/stat_sys_battery_charge_anim43">@drawable/frameworks_res_stat_sys_battery_charge_anim3</item>
+    <item name="drawable/stat_sys_battery_charge_anim28">@drawable/frameworks_res_stat_sys_battery_charge_anim2</item>
+    <item name="drawable/stat_sys_battery_charge_anim15">@drawable/frameworks_res_stat_sys_battery_charge_anim1</item>
+    <item name="drawable/stat_sys_battery_100">@drawable/frameworks_res_stat_sys_battery_100</item>
+    <item name="drawable/stat_sys_battery_85">@drawable/frameworks_res_stat_sys_battery_85</item>
+    <item name="drawable/stat_sys_battery_71">@drawable/frameworks_res_stat_sys_battery_70</item>
+    <item name="drawable/stat_sys_battery_57">@drawable/frameworks_res_stat_sys_battery_55</item>
+    <item name="drawable/stat_sys_battery_43">@drawable/frameworks_res_stat_sys_battery_45</item>
+    <item name="drawable/stat_sys_battery_28">@drawable/frameworks_res_stat_sys_battery_30</item>
+    <item name="drawable/stat_sys_battery_15">@drawable/frameworks_res_stat_sys_battery_20</item>
 </resource-redirections>
