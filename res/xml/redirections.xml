@@ -23,9 +23,9 @@
         android:minSdkVersion="7"
         android:resource="@xml/android" />
 
-    <package-redirections android:name="com.android.launcher"
+    <package-redirections android:name="com.cyanogenmod.trebuchet"
         android:minSdkVersion="7"
-        android:resource="@xml/com_android_launcher" />
+        android:resource="@xml/com_cyanogenmod_trebuchet" />
 
     <package-redirections android:name="com.android.camera"
         android:minSdkVersion="7"
