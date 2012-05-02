@@ -210,4 +210,8 @@
     <item name="drawable/expander_ic_maximized">@drawable/frameworks_res_expander_ic_maximized</item>
     <item name="drawable/expander_ic_minimized">@drawable/frameworks_res_expander_ic_minimized</item>
     <item name="drawable/editbox_background_focus_yellow">@drawable/frameworks_res_editbox_background_focus_yellow</item>
+
+    <item name="color/holo_blue_light">@color/androidian_green</item>
+    <item name="color/holo_blue_dark">@color/androidian_green_dark</item>
+    <item name="color/holo_blue_bright">@color/androidian_green_bright</item>
 </resource-redirections>

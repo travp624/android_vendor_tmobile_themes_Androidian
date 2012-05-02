@@ -75,5 +75,9 @@
     <color name="launcher_glow_pressed">#ffe0f840</color>
     <color name="launcher_glow_focused">#ffb2ca11</color>
 
+    <color name="androidian_green">#ff99cc00</color>
+    <color name="androidian_green_dark">#ffaadd00</color>
+    <color name="androidian_green_bright">#ff77aa00</color>
+
 </resources>
 

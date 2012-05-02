@@ -74,4 +74,9 @@
     <item name="drawable/stat_sys_battery_43">@drawable/frameworks_res_stat_sys_battery_45</item>
     <item name="drawable/stat_sys_battery_28">@drawable/frameworks_res_stat_sys_battery_30</item>
     <item name="drawable/stat_sys_battery_15">@drawable/frameworks_res_stat_sys_battery_20</item>
+    <item name="drawable/ic_notify_quicksettings_normal">@drawable/com_android_systemui_ic_notify_quicksettings_normal</item>
+    <item name="drawable/ic_notify_quicksettings_pressed">@drawable/com_android_systemui_ic_notify_quicksettings_pressed</item>
+    <item name="drawable/ic_notify_clear_pressed">@drawable/com_android_systemui_ic_notify_clear_pressed</item>
+    <item name="drawable/ic_notify_clear_normal">@drawable/com_android_systemui_ic_notify_clear_normal</item>
+    <item name="drawable/status_bar_hr">@drawable/com_android_systemui_status_bar_hr</item>
 </resource-redirections>
