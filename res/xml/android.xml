@@ -298,4 +298,10 @@
     <item name="drawable/switch_thumb_activated_holo_light">@drawable/frameworks_res_switch_thumb_activated_holo_light</item>
     <item name="drawable/switch_thumb_pressed_holo_dark">@drawable/frameworks_res_switch_thumb_pressed_holo_dark</item>
     <item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
+    <item name="drawable/scrubber_control_disabled_holo">@drawable/frameworks_res_scrubber_control_disabled_holo</item>
+    <item name="drawable/scrubber_control_focused_holo">@drawable/frameworks_res_scrubber_control_focused_holo</item>
+    <item name="drawable/scrubber_control_normal_holo">@drawable/frameworks_res_scrubber_control_normal_holo</item>
+    <item name="drawable/scrubber_control_pressed_holo">@drawable/frameworks_res_scrubber_control_pressed_holo</item>
+    <item name="drawable/scrubber_primary_holo">@drawable/frameworks_res_scrubber_primary_holo</item>
+    <item name="drawable/scrubber_secondary_holo">@drawable/frameworks_res_scrubber_secondary_holo</item>
 </resource-redirections>
