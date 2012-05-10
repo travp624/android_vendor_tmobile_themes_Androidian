@@ -110,6 +110,8 @@
     <item name="drawable/rate_star_big_on">@drawable/frameworks_res_rate_star_big_on</item>
     <item name="drawable/rate_star_big_half">@drawable/frameworks_res_rate_star_big_half</item>
     <item name="drawable/star_big_off">@drawable/frameworks_res_rate_star_big_off</item>
+    <item name="drawable/fastscroll_thumb_default_holo">@drawable/frameworks_res_fastscroll_thumb_default_holo</item>
+    <item name="drawable/fastscroll_thumb_pressed_holo">@drawable/frameworks_res_fastscroll_thumb_pressed_holo</item>
     <item name="drawable/frame_gallery_thumb_pressed">@drawable/frameworks_res_frame_gallery_thumb_pressed</item>
     <item name="drawable/frame_gallery_thumb_selected">@drawable/frameworks_res_frame_gallery_thumb_selected</item>
     <item name="drawable/gallery_selected_focused">@drawable/frameworks_res_gallery_selected_focused</item>
@@ -303,6 +305,9 @@
     <item name="drawable/scrubber_control_pressed_holo">@drawable/frameworks_res_scrubber_control_pressed_holo</item>
     <item name="drawable/scrubber_primary_holo">@drawable/frameworks_res_scrubber_primary_holo</item>
     <item name="drawable/scrubber_secondary_holo">@drawable/frameworks_res_scrubber_secondary_holo</item>
+    <item name="drawable/scrubber_control_selector_holo">@drawable/frameworks_res_scrubber_control_selector_holo</item>
+    <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/frameworks_res_scrubber_progress_horizontal_holo_dark</item>
+    <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/frameworks_res_scrubber_progress_horizontal_holo_light</item>
     <item name="drawable/textfield_activated_holo_dark">@drawable/frameworks_res_textfield_activated_holo_dark</item>
     <item name="drawable/textfield_activated_holo_light">@drawable/frameworks_res_textfield_activated_holo_light</item>
     <item name="drawable/textfield_focused_holo_dark">@drawable/frameworks_res_textfield_focused_holo_dark</item>
