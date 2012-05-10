@@ -16,6 +16,7 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/ab_solid_custom_blue_inverse_holo">@drawable/com_android_contacts_ab_solid_custom_blue_inverse_holo</item>
     <item name="drawable/btn_dial_action_left_disable_focused">@drawable/com_android_phone_btn_dial_action_left_disable_focused</item>
     <item name="drawable/btn_dial_action_left_pressed">@drawable/com_android_phone_btn_dial_action_left_pressed</item>
     <item name="drawable/btn_dial_action_left_selected">@drawable/com_android_phone_btn_dial_action_left_selected</item>
@@ -30,6 +31,17 @@
     <item name="drawable/btn_dial_textfield_activated">@drawable/com_android_phone_btn_dial_textfield_activated</item>
     <item name="drawable/btn_dial_textfield_pressed">@drawable/com_android_phone_btn_dial_textfield_pressed</item>
     <item name="drawable/btn_dial_textfield_selected">@drawable/com_android_phone_btn_dial_textfield_selected</item>
+    <item name="drawable/dial_num_0_wht">@drawable/com_android_contacts_dial_num_0_wht</item>
+    <item name="drawable/dial_num_1_wht">@drawable/com_android_contacts_dial_num_1_wht</item>
+    <item name="drawable/dial_num_2_wht">@drawable/com_android_contacts_dial_num_2_wht</item>
+    <item name="drawable/dial_num_3_wht">@drawable/com_android_contacts_dial_num_3_wht</item>
+    <item name="drawable/dial_num_4_wht">@drawable/com_android_contacts_dial_num_4_wht</item>
+    <item name="drawable/dial_num_5_wht">@drawable/com_android_contacts_dial_num_5_wht</item>
+    <item name="drawable/dial_num_6_wht">@drawable/com_android_contacts_dial_num_6_wht</item>
+    <item name="drawable/dial_num_7_wht">@drawable/com_android_contacts_dial_num_7_wht</item>
+    <item name="drawable/dial_num_8_wht">@drawable/com_android_contacts_dial_num_8_wht</item>
+    <item name="drawable/dial_num_9_wht">@drawable/com_android_contacts_dial_num_9_wht</item>
+    <item name="drawable/list_section_divider">@drawable/com_android_contacts_list_section_divider</item>
     <item name="drawable/quickcontact_slider_btn_pressed">@drawable/com_android_contacts_quickcontact_slider_btn_pressed</item>
     <item name="drawable/quickcontact_slider_btn_selected">@drawable/com_android_contacts_quickcontact_slider_btn_selected</item>
     <item name="drawable/contact_picture_border_highlight">@drawable/com_android_contacts_contact_picture_border_highlight</item>
@@ -42,4 +54,5 @@
     <item name="drawable/ic_launcher_folder_live_contacts_phone">@drawable/com_android_phone_ic_launcher_folder_live_contacts_phone</item>
     <item name="drawable/ic_launcher_folder_live_contacts_starred">@drawable/com_android_phone_ic_launcher_folder_live_contacts_starred</item>
     <item name="drawable/ic_launcher_folder_live_contacts">@drawable/com_android_phone_ic_launcher_folder_live_contacts</item>
+    
 </resource-redirections>
