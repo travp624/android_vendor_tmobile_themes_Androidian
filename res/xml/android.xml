@@ -279,6 +279,9 @@
     <item name="drawable/progress_primary_holo_dark">@drawable/frameworks_res_progress_primary_holo_dark</item>
     <item name="drawable/progress_secondary_holo_light">@drawable/frameworks_res_progress_secondary_holo_light</item>
     <item name="drawable/progress_secondary_holo_dark">@drawable/frameworks_res_progress_secondary_holo_dark</item>
+    <item name="drawable/progress_horizontal_holo_dark">@drawable/frameworks_res_progress_horizontal_holo_dark</item>
+    <item name="drawable/progress_horizontal_holo_light">@drawable/frameworks_res_progress_horizontal_holo_light</item>
+    <item name="drawable/progress_indeterminate_horizontal_holo">@drawable/frameworks_res_progress_indeterminate_horizontal_holo</item>
     <item name="drawable/switch_bg_focused_holo_dark">@drawable/frameworks_res_switch_bg_focused_holo_dark</item>
     <item name="drawable/switch_bg_focused_holo_light">@drawable/frameworks_res_switch_bg_focused_holo_light</item>
     <item name="drawable/textfield_activated_holo_dark">@drawable/frameworks_res_textfield_activated_holo_dark</item>
@@ -306,8 +309,8 @@
     <item name="drawable/scrubber_primary_holo">@drawable/frameworks_res_scrubber_primary_holo</item>
     <item name="drawable/scrubber_secondary_holo">@drawable/frameworks_res_scrubber_secondary_holo</item>
     <item name="drawable/scrubber_control_selector_holo">@drawable/frameworks_res_scrubber_control_selector_holo</item>
-    <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/frameworks_res_scrubber_progress_horizontal_holo_dark</item>
-    <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/frameworks_res_scrubber_progress_horizontal_holo_light</item>
+    <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
+    <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
     <item name="drawable/textfield_activated_holo_dark">@drawable/frameworks_res_textfield_activated_holo_dark</item>
     <item name="drawable/textfield_activated_holo_light">@drawable/frameworks_res_textfield_activated_holo_light</item>
     <item name="drawable/textfield_focused_holo_dark">@drawable/frameworks_res_textfield_focused_holo_dark</item>
