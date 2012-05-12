@@ -49,8 +49,8 @@
     <item name="drawable/btn_circle_disable_focused">@drawable/com_android_contacts_btn_circle_disable_focused</item>
     <item name="drawable/btn_circle_pressed">@drawable/com_android_contacts_btn_circle_pressed</item>
     <item name="drawable/btn_circle_selected">@drawable/com_android_contacts_btn_circle_selected</item>
-    <item name="mipmap/ic_launcher_phone">@mipmap/com_android_phone_ic_launcher_phone</item>
-    <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_phone_ic_launcher_contacts</item>
+    <item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
+    <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
     <item name="drawable/ic_launcher_folder_live_contacts_phone">@drawable/com_android_phone_ic_launcher_folder_live_contacts_phone</item>
     <item name="drawable/ic_launcher_folder_live_contacts_starred">@drawable/com_android_phone_ic_launcher_folder_live_contacts_starred</item>
     <item name="drawable/ic_launcher_folder_live_contacts">@drawable/com_android_phone_ic_launcher_folder_live_contacts</item>
